@@ -1,5 +1,8 @@
-# Google Cybersecurity Professional Certification Program
-## Incident Handler's Journal
+<p align="center">
+  <img src="https://i.imgur.com/ElWjENc.png" alt="Google Logo" width="200" height="200" />
+</p>
+
+# Incident Handler's Journal
 
 This repository contains my Incident Handler's Journal entries as part of the Google Cybersecurity Professional Certification Program.
 
