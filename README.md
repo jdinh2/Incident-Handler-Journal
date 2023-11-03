@@ -4,7 +4,7 @@
 
 # Incident Handler's Journal
 
-This repository contains my Incident Handler's Journal entries as part of the Google Cybersecurity Professional Certification Program.
+> **Disclaimer**: This repository contains my Incident Handler's Journal entries as part of the Google Cybersecurity Professional Certification Program.
 
 
 ## Date: July 23, 2024
